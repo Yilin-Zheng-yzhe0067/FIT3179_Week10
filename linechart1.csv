@@ -1,0 +1,541 @@
+﻿Test,GREENHOUSE GAS SOURCE AND SINK CATEGORIES ,State,Year,CO2 Emission
+1,Agriculture,Australia,2005,85957
+1,Agriculture,Australia,2006,84264
+1,Agriculture,Australia,2007,80268
+1,Agriculture,Australia,2008,77541
+1,Agriculture,Australia,2009,77743
+1,Agriculture,Australia,2010,75094
+1,Agriculture,Australia,2011,79922
+1,Agriculture,Australia,2012,81435
+1,Agriculture,Australia,2013,81698
+1,Agriculture,Australia,2014,82018
+1,Agriculture,Australia,2015,78941
+1,Agriculture,Australia,2016,77869
+1,Agriculture,Australia,2017,81861
+1,Agriculture,Australia,2018,80601
+1,Agriculture,Australia,2019,74825
+1,Agriculture,ACT,2005,41
+1,Agriculture,ACT,2006,39
+1,Agriculture,ACT,2007,36
+1,Agriculture,ACT,2008,28
+1,Agriculture,ACT,2009,29
+1,Agriculture,ACT,2010,23
+1,Agriculture,ACT,2011,29
+1,Agriculture,ACT,2012,28
+1,Agriculture,ACT,2013,28
+1,Agriculture,ACT,2014,21
+1,Agriculture,ACT,2015,23
+1,Agriculture,ACT,2016,28
+1,Agriculture,ACT,2017,28
+1,Agriculture,ACT,2018,24
+1,Agriculture,ACT,2019,18
+1,Agriculture,TAS,2005,2446
+1,Agriculture,TAS,2006,2445
+1,Agriculture,TAS,2007,2372
+1,Agriculture,TAS,2008,2182
+1,Agriculture,TAS,2009,2210
+1,Agriculture,TAS,2010,2133
+1,Agriculture,TAS,2011,2305
+1,Agriculture,TAS,2012,2396
+1,Agriculture,TAS,2013,2427
+1,Agriculture,TAS,2014,2539
+1,Agriculture,TAS,2015,2392
+1,Agriculture,TAS,2016,2322
+1,Agriculture,TAS,2017,2541
+1,Agriculture,TAS,2018,2454
+1,Agriculture,TAS,2019,2396
+1,Agriculture,NT,2005,2937
+1,Agriculture,NT,2006,2993
+1,Agriculture,NT,2007,3178
+1,Agriculture,NT,2008,3390
+1,Agriculture,NT,2009,2798
+1,Agriculture,NT,2010,3429
+1,Agriculture,NT,2011,3625
+1,Agriculture,NT,2012,3657
+1,Agriculture,NT,2013,3667
+1,Agriculture,NT,2014,3607
+1,Agriculture,NT,2015,3525
+1,Agriculture,NT,2016,3731
+1,Agriculture,NT,2017,3653
+1,Agriculture,NT,2018,3540
+1,Agriculture,NT,2019,3583
+1,Agriculture,SA,2005,6492
+1,Agriculture,SA,2006,6338
+1,Agriculture,SA,2007,6021
+1,Agriculture,SA,2008,5586
+1,Agriculture,SA,2009,5686
+1,Agriculture,SA,2010,5381
+1,Agriculture,SA,2011,6238
+1,Agriculture,SA,2012,6164
+1,Agriculture,SA,2013,6075
+1,Agriculture,SA,2014,6295
+1,Agriculture,SA,2015,6095
+1,Agriculture,SA,2016,5951
+1,Agriculture,SA,2017,6443
+1,Agriculture,SA,2018,6194
+1,Agriculture,SA,2019,5725
+1,Agriculture,WA,2005,11447
+1,Agriculture,WA,2006,11092
+1,Agriculture,WA,2007,10532
+1,Agriculture,WA,2008,9772
+1,Agriculture,WA,2009,9831
+1,Agriculture,WA,2010,9730
+1,Agriculture,WA,2011,8748
+1,Agriculture,WA,2012,9223
+1,Agriculture,WA,2013,9003
+1,Agriculture,WA,2014,9697
+1,Agriculture,WA,2015,9878
+1,Agriculture,WA,2016,9890
+1,Agriculture,WA,2017,9997
+1,Agriculture,WA,2018,9771
+1,Agriculture,WA,2019,9874
+1,Agriculture,VIC,2005,18065
+1,Agriculture,VIC,2006,17065
+1,Agriculture,VIC,2007,16176
+1,Agriculture,VIC,2008,15374
+1,Agriculture,VIC,2009,14983
+1,Agriculture,VIC,2010,14861
+1,Agriculture,VIC,2011,15570
+1,Agriculture,VIC,2012,16457
+1,Agriculture,VIC,2013,16204
+1,Agriculture,VIC,2014,16380
+1,Agriculture,VIC,2015,16133
+1,Agriculture,VIC,2016,15105
+1,Agriculture,VIC,2017,16344
+1,Agriculture,VIC,2018,16686
+1,Agriculture,VIC,2019,15573
+1,Agriculture,QLD,2005,22604
+1,Agriculture,QLD,2006,22119
+1,Agriculture,QLD,2007,22119
+1,Agriculture,QLD,2008,22235
+1,Agriculture,QLD,2009,23222
+1,Agriculture,QLD,2010,21217
+1,Agriculture,QLD,2011,23657
+1,Agriculture,QLD,2012,22897
+1,Agriculture,QLD,2013,23726
+1,Agriculture,QLD,2014,23969
+1,Agriculture,QLD,2015,21461
+1,Agriculture,QLD,2016,21022
+1,Agriculture,QLD,2017,21357
+1,Agriculture,QLD,2018,22740
+1,Agriculture,QLD,2019,21384
+1,Agriculture,NSW,2005,21926
+1,Agriculture,NSW,2006,22174
+1,Agriculture,NSW,2007,19835
+1,Agriculture,NSW,2008,18975
+1,Agriculture,NSW,2009,18984
+1,Agriculture,NSW,2010,18318
+1,Agriculture,NSW,2011,19750
+1,Agriculture,NSW,2012,20613
+1,Agriculture,NSW,2013,20568
+1,Agriculture,NSW,2014,19511
+1,Agriculture,NSW,2015,19433
+1,Agriculture,NSW,2016,19820
+1,Agriculture,NSW,2017,21500
+1,Agriculture,NSW,2018,19192
+1,Agriculture,NSW,2019,16272
+1,Energy,Australia,2005,401717
+1,Energy,Australia,2006,407617
+1,Energy,Australia,2007,415696
+1,Energy,Australia,2008,421016
+1,Energy,Australia,2009,425727
+1,Energy,Australia,2010,420678
+1,Energy,Australia,2011,417557
+1,Energy,Australia,2012,423135
+1,Energy,Australia,2013,416380
+1,Energy,Australia,2014,410088
+1,Energy,Australia,2015,420797
+1,Energy,Australia,2016,430659
+1,Energy,Australia,2017,433168
+1,Energy,Australia,2018,434415
+1,Energy,Australia,2019,434009
+1,Energy,ACT,2005,901
+1,Energy,ACT,2006,961
+1,Energy,ACT,2007,989
+1,Energy,ACT,2008,1054
+1,Energy,ACT,2009,1010
+1,Energy,ACT,2010,1050
+1,Energy,ACT,2011,1093
+1,Energy,ACT,2012,1105
+1,Energy,ACT,2013,1083
+1,Energy,ACT,2014,1051
+1,Energy,ACT,2015,1128
+1,Energy,ACT,2016,1175
+1,Energy,ACT,2017,1141
+1,Energy,ACT,2018,1091
+1,Energy,ACT,2019,1118
+1,Energy,TAS,2005,3798
+1,Energy,TAS,2006,3909
+1,Energy,TAS,2007,3968
+1,Energy,TAS,2008,4256
+1,Energy,TAS,2009,4145
+1,Energy,TAS,2010,4192
+1,Energy,TAS,2011,4234
+1,Energy,TAS,2012,4043
+1,Energy,TAS,2013,4309
+1,Energy,TAS,2014,3895
+1,Energy,TAS,2015,3562
+1,Energy,TAS,2016,3885
+1,Energy,TAS,2017,3848
+1,Energy,TAS,2018,3913
+1,Energy,TAS,2019,3879
+1,Energy,NT,2005,4758
+1,Energy,NT,2006,5484
+1,Energy,NT,2007,5945
+1,Energy,NT,2008,6524
+1,Energy,NT,2009,7211
+1,Energy,NT,2010,7197
+1,Energy,NT,2011,7098
+1,Energy,NT,2012,6939
+1,Energy,NT,2013,7133
+1,Energy,NT,2014,7186
+1,Energy,NT,2015,6142
+1,Energy,NT,2016,6117
+1,Energy,NT,2017,6029
+1,Energy,NT,2018,6871
+1,Energy,NT,2019,13437
+1,Energy,SA,2005,23981
+1,Energy,SA,2006,23567
+1,Energy,SA,2007,24411
+1,Energy,SA,2008,24772
+1,Energy,SA,2009,23285
+1,Energy,SA,2010,23044
+1,Energy,SA,2011,21613
+1,Energy,SA,2012,20612
+1,Energy,SA,2013,20228
+1,Energy,SA,2014,19726
+1,Energy,SA,2015,19712
+1,Energy,SA,2016,20008
+1,Energy,SA,2017,18123
+1,Energy,SA,2018,18070
+1,Energy,SA,2019,17603
+1,Energy,WA,2005,50553
+1,Energy,WA,2006,50602
+1,Energy,WA,2007,52058
+1,Energy,WA,2008,53051
+1,Energy,WA,2009,57243
+1,Energy,WA,2010,56758
+1,Energy,WA,2011,59584
+1,Energy,WA,2012,62217
+1,Energy,WA,2013,66621
+1,Energy,WA,2014,67680
+1,Energy,WA,2015,68237
+1,Energy,WA,2016,71968
+1,Energy,WA,2017,78282
+1,Energy,WA,2018,82456
+1,Energy,WA,2019,84337
+1,Energy,VIC,2005,104511
+1,Energy,VIC,2006,104670
+1,Energy,VIC,2007,103347
+1,Energy,VIC,2008,104559
+1,Energy,VIC,2009,107406
+1,Energy,VIC,2010,106813
+1,Energy,VIC,2011,107271
+1,Energy,VIC,2012,109753
+1,Energy,VIC,2013,101618
+1,Energy,VIC,2014,100228
+1,Energy,VIC,2015,104069
+1,Energy,VIC,2016,102080
+1,Energy,VIC,2017,99076
+1,Energy,VIC,2018,89825
+1,Energy,VIC,2019,86992
+1,Energy,QLD,2005,93370
+1,Energy,QLD,2006,95630
+1,Energy,QLD,2007,97685
+1,Energy,QLD,2008,98890
+1,Energy,QLD,2009,99990
+1,Energy,QLD,2010,100808
+1,Energy,QLD,2011,97776
+1,Energy,QLD,2012,100881
+1,Energy,QLD,2013,101110
+1,Energy,QLD,2014,98608
+1,Energy,QLD,2015,107786
+1,Energy,QLD,2016,112755
+1,Energy,QLD,2017,115436
+1,Energy,QLD,2018,121060
+1,Energy,QLD,2019,118415
+1,Energy,NSW,2005,119211
+1,Energy,NSW,2006,122130
+1,Energy,NSW,2007,126455
+1,Energy,NSW,2008,127034
+1,Energy,NSW,2009,124579
+1,Energy,NSW,2010,119907
+1,Energy,NSW,2011,117953
+1,Energy,NSW,2012,116674
+1,Energy,NSW,2013,113328
+1,Energy,NSW,2014,110649
+1,Energy,NSW,2015,109177
+1,Energy,NSW,2016,111508
+1,Energy,NSW,2017,110266
+1,Energy,NSW,2018,110261
+1,Energy,NSW,2019,107395
+1,Industrial Processes,Australia,2005,31149
+1,Industrial Processes,Australia,2006,31037
+1,Industrial Processes,Australia,2007,33070
+1,Industrial Processes,Australia,2008,32532
+1,Industrial Processes,Australia,2009,30629
+1,Industrial Processes,Australia,2010,32865
+1,Industrial Processes,Australia,2011,33571
+1,Industrial Processes,Australia,2012,30500
+1,Industrial Processes,Australia,2013,28562
+1,Industrial Processes,Australia,2014,28406
+1,Industrial Processes,Australia,2015,29742
+1,Industrial Processes,Australia,2016,29509
+1,Industrial Processes,Australia,2017,29950
+1,Industrial Processes,Australia,2018,30702
+1,Industrial Processes,Australia,2019,31751
+1,Industrial Processes,ACT,2005,83
+1,Industrial Processes,ACT,2006,80
+1,Industrial Processes,ACT,2007,90
+1,Industrial Processes,ACT,2008,91
+1,Industrial Processes,ACT,2009,111
+1,Industrial Processes,ACT,2010,107
+1,Industrial Processes,ACT,2011,119
+1,Industrial Processes,ACT,2012,114
+1,Industrial Processes,ACT,2013,125
+1,Industrial Processes,ACT,2014,135
+1,Industrial Processes,ACT,2015,152
+1,Industrial Processes,ACT,2016,153
+1,Industrial Processes,ACT,2017,155
+1,Industrial Processes,ACT,2018,157
+1,Industrial Processes,ACT,2019,176
+1,Industrial Processes,TAS,2005,1489
+1,Industrial Processes,TAS,2006,1481
+1,Industrial Processes,TAS,2007,1529
+1,Industrial Processes,TAS,2008,1588
+1,Industrial Processes,TAS,2009,1441
+1,Industrial Processes,TAS,2010,1434
+1,Industrial Processes,TAS,2011,1492
+1,Industrial Processes,TAS,2012,1417
+1,Industrial Processes,TAS,2013,1541
+1,Industrial Processes,TAS,2014,1576
+1,Industrial Processes,TAS,2015,1702
+1,Industrial Processes,TAS,2016,1538
+1,Industrial Processes,TAS,2017,1691
+1,Industrial Processes,TAS,2018,1648
+1,Industrial Processes,TAS,2019,1693
+1,Industrial Processes,NT,2005,116
+1,Industrial Processes,NT,2006,82
+1,Industrial Processes,NT,2007,89
+1,Industrial Processes,NT,2008,119
+1,Industrial Processes,NT,2009,129
+1,Industrial Processes,NT,2010,112
+1,Industrial Processes,NT,2011,130
+1,Industrial Processes,NT,2012,137
+1,Industrial Processes,NT,2013,152
+1,Industrial Processes,NT,2014,120
+1,Industrial Processes,NT,2015,130
+1,Industrial Processes,NT,2016,126
+1,Industrial Processes,NT,2017,121
+1,Industrial Processes,NT,2018,121
+1,Industrial Processes,NT,2019,127
+1,Industrial Processes,SA,2005,2981
+1,Industrial Processes,SA,2006,2957
+1,Industrial Processes,SA,2007,3163
+1,Industrial Processes,SA,2008,3035
+1,Industrial Processes,SA,2009,3080
+1,Industrial Processes,SA,2010,3139
+1,Industrial Processes,SA,2011,3119
+1,Industrial Processes,SA,2012,3437
+1,Industrial Processes,SA,2013,3478
+1,Industrial Processes,SA,2014,3214
+1,Industrial Processes,SA,2015,3351
+1,Industrial Processes,SA,2016,3396
+1,Industrial Processes,SA,2017,3417
+1,Industrial Processes,SA,2018,3411
+1,Industrial Processes,SA,2019,3471
+1,Industrial Processes,WA,2005,3841
+1,Industrial Processes,WA,2006,4647
+1,Industrial Processes,WA,2007,5309
+1,Industrial Processes,WA,2008,4708
+1,Industrial Processes,WA,2009,4810
+1,Industrial Processes,WA,2010,5369
+1,Industrial Processes,WA,2011,5156
+1,Industrial Processes,WA,2012,5260
+1,Industrial Processes,WA,2013,4578
+1,Industrial Processes,WA,2014,4675
+1,Industrial Processes,WA,2015,4678
+1,Industrial Processes,WA,2016,4530
+1,Industrial Processes,WA,2017,4607
+1,Industrial Processes,WA,2018,4679
+1,Industrial Processes,WA,2019,4344
+1,Industrial Processes,VIC,2005,3075
+1,Industrial Processes,VIC,2006,2771
+1,Industrial Processes,VIC,2007,2955
+1,Industrial Processes,VIC,2008,2925
+1,Industrial Processes,VIC,2009,3235
+1,Industrial Processes,VIC,2010,3153
+1,Industrial Processes,VIC,2011,3389
+1,Industrial Processes,VIC,2012,3239
+1,Industrial Processes,VIC,2013,3152
+1,Industrial Processes,VIC,2014,3031
+1,Industrial Processes,VIC,2015,2987
+1,Industrial Processes,VIC,2016,2958
+1,Industrial Processes,VIC,2017,2866
+1,Industrial Processes,VIC,2018,2994
+1,Industrial Processes,VIC,2019,3337
+1,Industrial Processes,QLD,2005,5278
+1,Industrial Processes,QLD,2006,4781
+1,Industrial Processes,QLD,2007,5109
+1,Industrial Processes,QLD,2008,5443
+1,Industrial Processes,QLD,2009,5486
+1,Industrial Processes,QLD,2010,5520
+1,Industrial Processes,QLD,2011,5289
+1,Industrial Processes,QLD,2012,5247
+1,Industrial Processes,QLD,2013,4836
+1,Industrial Processes,QLD,2014,5109
+1,Industrial Processes,QLD,2015,5231
+1,Industrial Processes,QLD,2016,5111
+1,Industrial Processes,QLD,2017,4890
+1,Industrial Processes,QLD,2018,5181
+1,Industrial Processes,QLD,2019,5826
+1,Industrial Processes,NSW,2005,14286
+1,Industrial Processes,NSW,2006,14236
+1,Industrial Processes,NSW,2007,14824
+1,Industrial Processes,NSW,2008,14622
+1,Industrial Processes,NSW,2009,12338
+1,Industrial Processes,NSW,2010,14031
+1,Industrial Processes,NSW,2011,14877
+1,Industrial Processes,NSW,2012,11646
+1,Industrial Processes,NSW,2013,10699
+1,Industrial Processes,NSW,2014,10545
+1,Industrial Processes,NSW,2015,11510
+1,Industrial Processes,NSW,2016,11695
+1,Industrial Processes,NSW,2017,12202
+1,Industrial Processes,NSW,2018,12509
+1,Industrial Processes,NSW,2019,12773
+1,Waste,Australia,2005,16012
+1,Waste,Australia,2006,15772
+1,Waste,Australia,2007,16149
+1,Waste,Australia,2008,16675
+1,Waste,Australia,2009,16578
+1,Waste,Australia,2010,16936
+1,Waste,Australia,2011,16216
+1,Waste,Australia,2012,14528
+1,Waste,Australia,2013,13843
+1,Waste,Australia,2014,13924
+1,Waste,Australia,2015,13354
+1,Waste,Australia,2016,13951
+1,Waste,Australia,2017,14064
+1,Waste,Australia,2018,13945
+1,Waste,Australia,2019,13777
+1,Waste,ACT,2005,217
+1,Waste,ACT,2006,212
+1,Waste,ACT,2007,206
+1,Waste,ACT,2008,201
+1,Waste,ACT,2009,225
+1,Waste,ACT,2010,228
+1,Waste,ACT,2011,221
+1,Waste,ACT,2012,185
+1,Waste,ACT,2013,187
+1,Waste,ACT,2014,202
+1,Waste,ACT,2015,190
+1,Waste,ACT,2016,190
+1,Waste,ACT,2017,173
+1,Waste,ACT,2018,134
+1,Waste,ACT,2019,166
+1,Waste,TAS,2005,451
+1,Waste,TAS,2006,440
+1,Waste,TAS,2007,414
+1,Waste,TAS,2008,421
+1,Waste,TAS,2009,356
+1,Waste,TAS,2010,420
+1,Waste,TAS,2011,389
+1,Waste,TAS,2012,375
+1,Waste,TAS,2013,381
+1,Waste,TAS,2014,406
+1,Waste,TAS,2015,361
+1,Waste,TAS,2016,401
+1,Waste,TAS,2017,422
+1,Waste,TAS,2018,389
+1,Waste,TAS,2019,393
+1,Waste,NT,2005,124
+1,Waste,NT,2006,102
+1,Waste,NT,2007,110
+1,Waste,NT,2008,142
+1,Waste,NT,2009,148
+1,Waste,NT,2010,156
+1,Waste,NT,2011,164
+1,Waste,NT,2012,174
+1,Waste,NT,2013,150
+1,Waste,NT,2014,81
+1,Waste,NT,2015,175
+1,Waste,NT,2016,199
+1,Waste,NT,2017,203
+1,Waste,NT,2018,186
+1,Waste,NT,2019,186
+1,Waste,SA,2005,832
+1,Waste,SA,2006,858
+1,Waste,SA,2007,875
+1,Waste,SA,2008,970
+1,Waste,SA,2009,989
+1,Waste,SA,2010,997
+1,Waste,SA,2011,991
+1,Waste,SA,2012,991
+1,Waste,SA,2013,1104
+1,Waste,SA,2014,1092
+1,Waste,SA,2015,997
+1,Waste,SA,2016,1229
+1,Waste,SA,2017,1255
+1,Waste,SA,2018,1054
+1,Waste,SA,2019,914
+1,Waste,WA,2005,1612
+1,Waste,WA,2006,1560
+1,Waste,WA,2007,1706
+1,Waste,WA,2008,1703
+1,Waste,WA,2009,1689
+1,Waste,WA,2010,2026
+1,Waste,WA,2011,2049
+1,Waste,WA,2012,1978
+1,Waste,WA,2013,1947
+1,Waste,WA,2014,1920
+1,Waste,WA,2015,1828
+1,Waste,WA,2016,2081
+1,Waste,WA,2017,1947
+1,Waste,WA,2018,1810
+1,Waste,WA,2019,1903
+1,Waste,VIC,2005,4354
+1,Waste,VIC,2006,4331
+1,Waste,VIC,2007,4229
+1,Waste,VIC,2008,4171
+1,Waste,VIC,2009,4169
+1,Waste,VIC,2010,4178
+1,Waste,VIC,2011,3632
+1,Waste,VIC,2012,3041
+1,Waste,VIC,2013,2320
+1,Waste,VIC,2014,2407
+1,Waste,VIC,2015,2850
+1,Waste,VIC,2016,2874
+1,Waste,VIC,2017,3085
+1,Waste,VIC,2018,2818
+1,Waste,VIC,2019,2830
+1,Waste,QLD,2005,2843
+1,Waste,QLD,2006,2777
+1,Waste,QLD,2007,3107
+1,Waste,QLD,2008,3264
+1,Waste,QLD,2009,3521
+1,Waste,QLD,2010,3513
+1,Waste,QLD,2011,3606
+1,Waste,QLD,2012,3103
+1,Waste,QLD,2013,3353
+1,Waste,QLD,2014,3177
+1,Waste,QLD,2015,3190
+1,Waste,QLD,2016,3214
+1,Waste,QLD,2017,3033
+1,Waste,QLD,2018,2834
+1,Waste,QLD,2019,2591
+1,Waste,NSW,2005,5575
+1,Waste,NSW,2006,5486
+1,Waste,NSW,2007,5497
+1,Waste,NSW,2008,5799
+1,Waste,NSW,2009,5477
+1,Waste,NSW,2010,5416
+1,Waste,NSW,2011,5162
+1,Waste,NSW,2012,4676
+1,Waste,NSW,2013,4396
+1,Waste,NSW,2014,4634
+1,Waste,NSW,2015,3758
+1,Waste,NSW,2016,3759
+1,Waste,NSW,2017,3943
+1,Waste,NSW,2018,4716
+1,Waste,NSW,2019,4789

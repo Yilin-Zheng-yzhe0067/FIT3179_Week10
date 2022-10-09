@@ -1,0 +1,28 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": { "url": "linechart1.csv" },
+    "width": 400,
+    "height": 300,
+    "mark": "bar",
+    "params": [{ "name": "Continent_selection", "bind": { "input": "select", "options": ["Australia", "NSW", "QLD", "VIC", "WA", "SA", "NT", "TAS", "ACT"], "labels": ["Australia", "NSW", "QLD", "VIC", "WA", "SA", "NT", "TAS", "ACT"], "name": "Continent Selection: " } }],
+    "transform": [{
+        "filter": "datum.State == 'Australia' || datum.State == Continent_selection"
+    }],
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "nominal",
+            "axis": { "labelAngle": 0 }
+        },
+        "y": {
+            "field": "CO2 Emission",
+            "type": "quantitative"
+        },
+        "color": { "field": "GREENHOUSE GAS SOURCE AND SINK CATEGORIES ", "legend": { "title": "CO2 Emission Source" } },
+        "tooltip": [
+            { "field": "Year", "type": "nominal" },
+            { "field": "CO2 Emission", "type": "quantitative", "title": "C02 Emission" },
+            { "field": "State", "type": "nominal" }
+        ]
+    }
+}
