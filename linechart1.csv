@@ -1,19 +1,4 @@
 ﻿Test,GREENHOUSE GAS SOURCE AND SINK CATEGORIES ,State,Year,CO2 Emission
-1,Agriculture,Australia,2005,85957
-1,Agriculture,Australia,2006,84264
-1,Agriculture,Australia,2007,80268
-1,Agriculture,Australia,2008,77541
-1,Agriculture,Australia,2009,77743
-1,Agriculture,Australia,2010,75094
-1,Agriculture,Australia,2011,79922
-1,Agriculture,Australia,2012,81435
-1,Agriculture,Australia,2013,81698
-1,Agriculture,Australia,2014,82018
-1,Agriculture,Australia,2015,78941
-1,Agriculture,Australia,2016,77869
-1,Agriculture,Australia,2017,81861
-1,Agriculture,Australia,2018,80601
-1,Agriculture,Australia,2019,74825
 1,Agriculture,ACT,2005,41
 1,Agriculture,ACT,2006,39
 1,Agriculture,ACT,2007,36
@@ -134,21 +119,6 @@
 1,Agriculture,NSW,2017,21500
 1,Agriculture,NSW,2018,19192
 1,Agriculture,NSW,2019,16272
-1,Energy,Australia,2005,401717
-1,Energy,Australia,2006,407617
-1,Energy,Australia,2007,415696
-1,Energy,Australia,2008,421016
-1,Energy,Australia,2009,425727
-1,Energy,Australia,2010,420678
-1,Energy,Australia,2011,417557
-1,Energy,Australia,2012,423135
-1,Energy,Australia,2013,416380
-1,Energy,Australia,2014,410088
-1,Energy,Australia,2015,420797
-1,Energy,Australia,2016,430659
-1,Energy,Australia,2017,433168
-1,Energy,Australia,2018,434415
-1,Energy,Australia,2019,434009
 1,Energy,ACT,2005,901
 1,Energy,ACT,2006,961
 1,Energy,ACT,2007,989
@@ -269,21 +239,6 @@
 1,Energy,NSW,2017,110266
 1,Energy,NSW,2018,110261
 1,Energy,NSW,2019,107395
-1,Industrial Processes,Australia,2005,31149
-1,Industrial Processes,Australia,2006,31037
-1,Industrial Processes,Australia,2007,33070
-1,Industrial Processes,Australia,2008,32532
-1,Industrial Processes,Australia,2009,30629
-1,Industrial Processes,Australia,2010,32865
-1,Industrial Processes,Australia,2011,33571
-1,Industrial Processes,Australia,2012,30500
-1,Industrial Processes,Australia,2013,28562
-1,Industrial Processes,Australia,2014,28406
-1,Industrial Processes,Australia,2015,29742
-1,Industrial Processes,Australia,2016,29509
-1,Industrial Processes,Australia,2017,29950
-1,Industrial Processes,Australia,2018,30702
-1,Industrial Processes,Australia,2019,31751
 1,Industrial Processes,ACT,2005,83
 1,Industrial Processes,ACT,2006,80
 1,Industrial Processes,ACT,2007,90
@@ -404,21 +359,6 @@
 1,Industrial Processes,NSW,2017,12202
 1,Industrial Processes,NSW,2018,12509
 1,Industrial Processes,NSW,2019,12773
-1,Waste,Australia,2005,16012
-1,Waste,Australia,2006,15772
-1,Waste,Australia,2007,16149
-1,Waste,Australia,2008,16675
-1,Waste,Australia,2009,16578
-1,Waste,Australia,2010,16936
-1,Waste,Australia,2011,16216
-1,Waste,Australia,2012,14528
-1,Waste,Australia,2013,13843
-1,Waste,Australia,2014,13924
-1,Waste,Australia,2015,13354
-1,Waste,Australia,2016,13951
-1,Waste,Australia,2017,14064
-1,Waste,Australia,2018,13945
-1,Waste,Australia,2019,13777
 1,Waste,ACT,2005,217
 1,Waste,ACT,2006,212
 1,Waste,ACT,2007,206
