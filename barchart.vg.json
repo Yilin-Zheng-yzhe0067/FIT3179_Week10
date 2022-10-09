@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": { "url": "https://raw.githubusercontent.com/Yilin-Zheng-yzhe0067/FIT3179_Week10/main/linechart1.csv" },
-    "width": 450,
+    "width": 400,
     "height": 300,
     "mark": "bar",
     "params": [{ "name": "Continent_selection", "bind": { "input": "select", "options": [null, "NSW", "QLD", "VIC", "WA", "SA", "NT", "TAS", "ACT"], "labels": ["Australia", "NSW", "QLD", "VIC", "WA", "SA", "NT", "TAS", "ACT"], "name": "States: " } }],
