@@ -22,7 +22,8 @@
         "tooltip": [
             { "field": "Year", "type": "nominal" },
             { "field": "CO2 Emission", "type": "quantitative", "title": "C02 Emission" },
-            { "field": "State", "type": "nominal" }
+            { "field": "State", "type": "nominal" },
+            { "field": "GREENHOUSE GAS SOURCE AND SINK CATEGORIES ", "type": "nominal", "title": "CO2 Emission Source" }
         ]
     }
 }
