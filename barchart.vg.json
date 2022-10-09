@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": { "url": "linechart1.csv" },
+    "data": { "url": "https://raw.githubusercontent.com/Yilin-Zheng-yzhe0067/FIT3179_Week10/main/linechart1.csv" },
     "width": 450,
     "height": 300,
     "mark": "bar",
